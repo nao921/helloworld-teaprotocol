@@ -1,6 +1,3 @@
-# sum-teaproject1
-birainfd teaproject
+# helloworld-teaprotocol
+Hello World Tea Protocol!
 
-Một thư viện giúp bạn tính tổng của 2 số bất kỳ
-
-Đơn giản, dễ dùng, cực kỳ nhẹ
