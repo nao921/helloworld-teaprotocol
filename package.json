@@ -193,7 +193,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/legend2303/makeitt"
+    "url": "https://github.com/nao921/helloworld-teaprotocol/"
   },
   "homepage": "",
   "keywords": [
@@ -202,6 +202,6 @@
     "tong",
     "cong"
   ],
-  "author": "legend2303",
+  "author": "nao921",
   "license": "MIT"
 }
